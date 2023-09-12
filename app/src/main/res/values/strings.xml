@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CalculatorUI</string>
+    <string name="apk">Calculator</string>
+    <string name="text_proses">25x25</string>
+    <string name="text_hasil">625</string>
+</resources>
